@@ -1,7 +1,7 @@
 # Stock Indy 500
 
 
-## Introduction
+# Introduction
 
 The stock market has been more or less restructured as a result of the COVID-19 Pandemic. Certain industries were hit harder, some recovered faster, and some are still trying to recover.
 
