@@ -10,8 +10,10 @@ We propose a time series analysis that looks at different industries and compare
 
 # Conclusion
 
-Heare will be the conclusion section for the project. 
+Heare will be the conclusion section for the project.
 
 # Appendix
 
 AC Feature test Merge
+
+We will need actual APIs to use
