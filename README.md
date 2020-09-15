@@ -41,9 +41,13 @@ How did the market as a whole compare to other benchmark asset classes, such as 
 We will primarily be using stock APIs such as [Quantopian](https://www.quantopian.com/docs/data-reference/factset_fundamentals#factset-fundamentals-data-reference) and [Alpaca](https://alpaca.markets/data).
 
 
+
 ## Collaborators
     O.K. Arowolaju
     Anreas Christodoulou
     Michael Dukes
     P. Antoinette White
+
+We will primarily be using stock APIs such as [Quantopian](https://www.quantopian.com/docs/data-reference/factset_fundamentals#factset-fundamentals-data-reference) and [Alpaca](https://alpaca.markets/data).
+
 
