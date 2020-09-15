@@ -12,5 +12,5 @@ This will allow us to visualize the impact COVID-19 really had across industries
 
 # Technology to Use
 
-We will primarily be using stock APIs such as [Quantopian](https://www.quantopian.com/docs/data-reference/factset_fundamentals#factset-fundamentals-data-reference), [Alpaca](https://alpaca.markets/data) and
+We will primarily be using stock APIs such as [Quantopian](https://www.quantopian.com/docs/data-reference/factset_fundamentals#factset-fundamentals-data-reference) and [Alpaca](https://alpaca.markets/data).
 
