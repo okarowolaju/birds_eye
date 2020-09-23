@@ -48,6 +48,6 @@ We will primarily be using stock APIs such as [Quantopian](https://www.quantopia
     Michael Dukes
     P. Antoinette White
 
-We will primarily be using stock APIs such as [Quantopian](https://www.quantopian.com/docs/data-reference/factset_fundamentals#factset-fundamentals-data-reference) and [Alpaca](https://alpaca.markets/data).
+We will primarily be using stock APIs and data such as [Barchart](https://www.barchart.com) and [Alpaca](https://alpaca.markets/data).
 
 
